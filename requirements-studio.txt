@@ -1,0 +1,12 @@
+# Direct-launch local recruitment dashboard — Python 3.11/3.12 recommended.
+# Install OCR extras separately only when you need scanned PDFs.
+streamlit>=1.40,<2
+pandas>=2.2,<4
+numpy>=1.26,<3
+pdfplumber>=0.11,<1
+pypdfium2>=4.28,<6
+python-docx>=1.1,<2
+pillow>=10,<14
+charset-normalizer>=3,<4
+requests>=2.30,<3
+pydantic>=2,<3

@@ -1,0 +1,14 @@
+AI RESUME PARSER — ENHANCED v2
+Release date: 2026-10-15
+
+Original private-fixture suite (excluded Streamlit UI tests): 307 passed, 3 skipped, 0 failed.
+Clean distributable suite (all packaged tests): 249 passed, 44 skipped, 0 failed; 18.09 sec.
+New synthetic API integration tests: 16 passed, 0 failed.
+Python compileall: passed.
+Docker Compose YAML parser: passed (NOT an actual Docker build).
+
+Skipped tests: private original real-person CV fixture scenarios, Streamlit browser/runtime,
+optional OCR and actual live-model tests when not installed/configured.
+
+External services (MinIO/Postgres/Ollama/hosted LLM) not integration-tested in this environment.
+See docs/TESTING.md and docs/CHANGELOG_AND_GAPS.md for detail.

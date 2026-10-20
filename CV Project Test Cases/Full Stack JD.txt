@@ -1,0 +1,18 @@
+
+Position: Trainee Full Stack Developer
+
+What You'll Do:
+Create and maintain websites using modern tools like MERN (MongoDB, Express, React, Node) or MEAN (Angular).
+
+Design and implement a modular, scalable microservices architecture and manage API Gateways for routing and security.
+
+Link different software features together using APIs and set up secure authentication and authorization mechanisms.
+
+Organize data in databases and use Git to share your code and collaborate with the rest of the dev team.
+
+Requirements
+Bachelor's degree in Computer Science, Software Engineering, or a related field (fresh graduates are encouraged to apply).
+
+Knowledge of front-end languages (HTML/CSS, JS, jQuery), web servers (Apache), and UI/UX design principles.
+
+Familiarity with relational and non-relational databases (MongoDB, MySQL, SQL Server).

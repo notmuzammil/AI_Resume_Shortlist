@@ -1,0 +1,41 @@
+
+Position: Trainee AI Mobile Developer
+
+
+Key Responsibilities:
+Develop and maintain mobile applications using Flutter & Dart.
+
+Integrate REST APIs & GraphQL services, handling JSON data.
+
+Implement local storage with SQLite and backend services via Firebase.
+
+Convert wireframes/UI designs into responsive, pixel-perfect layouts.
+
+Integrate third-party SDKs as per project requirements.
+
+Build AI-powered features: Face Recognition, ML-based logic, Smart Recommendations, OCR.
+
+Apply state management and performance optimization best practices.
+
+Use Git for version control and collaborate via code reviews.
+
+Work with cross-functional teams (designers, backend developers, QA).
+
+Requirements
+Bachelor's degree (16 years of education) in Computer Science or a related field.
+
+Minimum 6 months of professional mobile app development experience.
+
+Strong understanding of Android / iOS development principles.
+
+Experience with API integration and JSON handling.
+
+Knowledge of app architecture patterns (MVC / MVVM / Clean Architecture).
+
+Understanding of state management and performance optimization techniques.
+
+Familiarity with Git or SVN for version control.
+
+Basic understanding of AI/ML integration in mobile apps (preferred).
+
+Good problem-solving abilities and strong team collaboration skills.

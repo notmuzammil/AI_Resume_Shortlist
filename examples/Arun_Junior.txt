@@ -1,0 +1,9 @@
+Arun Junior
+Backend Engineering Trainee
+EDUCATION
+BS Computer Science — currently studying, expected 2027.
+PROJECTS
+Built a university JavaScript and Node.js Express assignment with a PostgreSQL database and REST endpoints. Currently learning Docker.
+EXPERIENCE
+Intern Developer | Jun 2025 - Aug 2025
+Assisted with bug fixes and JavaScript unit tests under senior supervision.

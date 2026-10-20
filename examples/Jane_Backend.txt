@@ -1,0 +1,9 @@
+Jane Backend
+Senior Software Engineer
+SUMMARY
+Six years of production backend engineering using Node.js, NestJS, PostgreSQL and Docker for enterprise clients.
+EDUCATION
+BS Computer Science, completed in 2017.
+WORK EXPERIENCE
+Senior Backend Engineer | Jan 2019 - Dec 2025
+Built NestJS and Node.js REST APIs and PostgreSQL services for payment integrations. Containerized workloads using Docker and Kubernetes. Implemented Redis caching and automated CI/CD pipelines. Added unit tests.

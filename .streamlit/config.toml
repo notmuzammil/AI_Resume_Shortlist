@@ -1,0 +1,36 @@
+[server]
+# No login/authentication: DO NOT expose the application on a public interface.
+address = "127.0.0.1"
+headless = true
+maxUploadSize = 150
+maxMessageSize = 200
+enableXsrfProtection = true
+enableCORS = true
+fileWatcherType = "none"
+
+[browser]
+gatherUsageStats = false
+
+[client]
+showErrorDetails = "none"
+toolbarMode = "viewer"
+
+[runner]
+magicEnabled = false
+
+[theme]
+font = "sans serif"
+
+# Two themes: the app follows the computer's light/dark setting, and the
+# viewer can switch in the menu (top right, ⋮ → Settings → Theme).
+[theme.light]
+primaryColor = "#4B7F6F"
+backgroundColor = "#FAFAF8"
+secondaryBackgroundColor = "#F2F4F1"
+textColor = "#2A3236"
+
+[theme.dark]
+primaryColor = "#4F8C78"
+backgroundColor = "#15191B"
+secondaryBackgroundColor = "#21272A"
+textColor = "#E2E6E4"

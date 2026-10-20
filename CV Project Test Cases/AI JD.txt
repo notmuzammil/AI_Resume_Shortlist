@@ -1,0 +1,31 @@
+
+Position: AI Engineer (Trainee)
+
+What You'll Do:
+
+Support the development of AI/ML-based applications and tools.
+
+Work on model training, fine-tuning, and integration of AI APIs.
+
+Assist in building backend components using Python frameworks (Django/Flask).
+
+Contribute to prototypes using tools like TensorFlow, HuggingFace, and Streamlit.
+
+Requirements
+Bachelor's degree (16 years) in Computer Science or a related field.
+
+Fresh graduates or candidates with relevant project experience are preferred.
+
+AI/ML concepts (Supervised Learning, Neural Networks, NLP).
+
+RAG architecture and vector-based search.
+
+Python development with Django, Flask, or similar frameworks.
+
+AI/ML libraries such as TensorFlow, HuggingFace, or equivalent.
+
+Working with APIs (OpenAI, Gemini, etc.).
+
+Familiarity with MySQL or NoSQL databases.
+
+Familiar with Git or SVN for version control.

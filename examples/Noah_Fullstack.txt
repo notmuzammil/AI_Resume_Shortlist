@@ -1,0 +1,9 @@
+Noah Fullstack
+Full Stack Developer
+PROFILE
+Developed React, Node.js, Express and PostgreSQL web applications; Docker used for local and staging deployments.
+EDUCATION
+BS Software Engineering, completed in 2020.
+EMPLOYMENT
+Software Engineer | Jan 2021 - Dec 2025
+Implemented Node.js and Express REST endpoints, PostgreSQL schemas, CI pipelines and Docker-based testing. No production NestJS projects documented.

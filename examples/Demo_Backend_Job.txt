@@ -1,0 +1,7 @@
+Job Title: Senior Backend Engineer
+
+We're looking for an experienced backend developer to deliver reliable APIs and microservices.
+Must have Node.js, NestJS, PostgreSQL, Docker, and REST APIs.
+At least 3 years of professional experience building production backend services.
+A completed bachelor's degree in Computer Science, Software Engineering or related technology field is required.
+Preferred: Kubernetes, AWS, automated tests, Redis, and CI/CD experience.

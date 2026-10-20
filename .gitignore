@@ -1,0 +1,28 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+.streamlit/secrets.toml
+~$*
+*.log
+# Candidate documents, operational databases and credentials
+.env
+.env.*
+!.env.example
+.private_uploads/
+recruitment.db
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite3
+*.pem
+*.key
+.ai_cache/
+coverage.xml
+htmlcov/
+
+# Single-user local recruitment library (private original resumes and reports)
+.studio_data/
